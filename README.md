@@ -1,7 +1,11 @@
 # spotify-clone
 
 <p align="center">
-A Spotify Clone using the Spotify API for authentication and data fetching.
+
+<ul>
+  <li>Music player application built with React, MaterialUI and Spotify API.</li>
+  <li>Features: Spotify-Auth, User-specific data fetching.</li>
+</ul>
 
 <br></br>
 <center>
